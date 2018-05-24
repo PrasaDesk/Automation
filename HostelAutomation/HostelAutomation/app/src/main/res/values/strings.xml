@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hostel Automation</string>
+    <string name="setup">Setup</string>
+    <string name="port_number">Port Number</string>
+    <string name="raspberry_pi_ip_address">Raspberry Pi IP Address</string>
+    <string name="coridor_light">Coridor Light</string>
+    <string name="water_motor">Water Motor</string>
+    <string name="camera_streaming">Camera Streaming</string>
+</resources>
